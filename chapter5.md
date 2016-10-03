@@ -105,7 +105,10 @@
     * Continue decomposing until it seems as if it would be easier to code the next level than to decompose it
     * Work until you become somewhat impatient at how obvious and easy the design seems
 * Bottom up design
-    * Ask yourself what you know the system needs to do     * Identify concrete objects and responsibilities from that question     * Identify common objects, and group them using subsystem organization, pack- ages, composition within objects, or inheritance, whichever is appropriate     * Continue with the next level up, or go back to the top and try again to work down
+    * Ask yourself what you know the system needs to do
+    * Identify concrete objects and responsibilities from that question
+    * Identify common objects, and group them using subsystem organization, packages, composition within objects, or inheritance, whichever is appropriate
+    * Continue with the next level up, or go back to the top and try again to work down
 * Experimental prototyping
     * Some software problems are "wicked" - solutions can only be designed for them by solving them
     * Write the absolute minimum amount of code needed to answer a question
