@@ -16,3 +16,4 @@ Notes based on reading Code Complete 2, by Steve McConnell
 
 ## Part II: Creating High Quality Code
 * [Chapter 5: Design in Construction](chapter5.md)
+* [Chapter 6: Working Classes](chapter6.md)
