@@ -33,8 +33,8 @@
   * Sometimes this is due to good routines with bad names
   * Other times it is because the routines have no focus - must be refactored
 * Make names of routines as long as necessary, but as clear as possible
-* To name a function, use a description of the return value (IsReady, CurrentColor)
-* To name a procedure, use a strong verb followed by an object (PrintDocument, CalcRevenues)
+* **To name a function, use a description of the return value (IsReady, CurrentColor)**
+* **To name a procedure, use a strong verb followed by an object (PrintDocument, CalcRevenues)**
   * In object oriented languages, the object may be implied
 * Use opposites precisely
 * Establish conventions for common operations
