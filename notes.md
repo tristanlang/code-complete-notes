@@ -19,3 +19,7 @@ Notes based on reading Code Complete 2, by Steve McConnell
 * [Chapter 6: Working Classes](chapter6.md)
 * [Chapter 7: High Quality Routines](chapter7.md)
 * [Chapter 8: Defensive Programming](chapter8.md)
+* [Chapter 9: The Pseudocode Programming Process](chapter9.md)
+
+## Part III: Variables
+* 
