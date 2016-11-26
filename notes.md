@@ -22,4 +22,22 @@ Notes based on reading Code Complete 2, by Steve McConnell
 * [Chapter 9: The Pseudocode Programming Process](chapter9.md)
 
 ## Part III: Variables
-* 
+* [Chapter 10: General Issues in Using Variables](chapter10.md)
+* [Chapter 11: The Power of Variable Names](chapter11.md)
+* [Chapter 12: Fundamental Data Types](chapter12.md)
+* [Chapter 13: Unusual Data Types](chapter13.md)
+
+## Part IV: Statements
+* [Chapter 14: Organizing Straight-Line Code](chapter14.md)
+* [Chapter 15: Using Conditionals](chapter15.md)
+* [Chapter 16: Controlling Loops](chapter16.md)
+* [Chapter 17: Unusual Control Structures](chapter17.md)
+* [Chapter 18: Table-Driven Methods](chapter18.md)
+* [Chapter 19: General Control Issues](chapter19.md)
+
+## Part V: Code Improvements
+* [Chapter 20: The Software-Quality Landscape](chapter20.md)
+* [Chapter 21: Collaborative Construction](chapter21.md)
+* [Chapter 22: Developer Testing](chapter22.md)
+* [Chapter 23: Debugging](chapter23.md)
+* [Chapter 24: Refactoring](chapter24.md)
