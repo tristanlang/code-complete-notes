@@ -41,3 +41,14 @@ Notes based on reading Code Complete 2, by Steve McConnell
 * [Chapter 22: Developer Testing](chapter22.md)
 * [Chapter 23: Debugging](chapter23.md)
 * [Chapter 24: Refactoring](chapter24.md)
+* [Chapter 25: Code-Tuning Strategies](chapter25.md)
+* [Chapter 26: Code-Tuning Techniques](chapter26.md)
+
+## Part VI: System Considerations
+* [Chapter 27: How Program Size Affects Construction](chapter27.md)
+* [Chapter 28: Managing Construction](chapter28.md)
+* [Chapter 29: Integration](chapter29.md)
+* [Chapter 30: Programming Tools](chapter30.md)
+* [Chapter 31: Layout and Style](chapter31.md)
+* [Chapter 32: Self-Documenting Code](chapter32.md)
+* [Chapter 33: Personal Character](chapter33.md)
